@@ -1,0 +1,23 @@
+{
+    "name": "xaelion",
+    "private": true,
+    "version": "1.0.0",
+    "description": "xaelion",
+    "main": "index.js",
+    "author": "Zoahyr SLILEH",
+    "license": "ISC",
+    "engines": {
+        "node": "18.x"
+    },
+    "scripts": {
+        "start": "node index.js",
+        "install": "node console install"
+    },
+    "dependencies": {
+        "archiver": "^6.0.1",
+        "chalk": "^4.1.2",
+        "express": "^4.18.2",
+        "mongoose": "^7.5.2",
+        "uglify-js": "^3.17.4"
+    }
+}

@@ -1,0 +1,1 @@
+"use strict";var __importDefault=this&&this.__importDefault||function(t){return t&&t.__esModule?t:{default:t}};Object.defineProperty(exports,"__esModule",{value:!0});const Json_1=__importDefault(require("@/Tools/System/Json")),tsconfig=(0,Json_1.default)("./tsconfig.json").data;exports.default=tsconfig;
